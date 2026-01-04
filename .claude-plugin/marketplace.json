@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-code-plugins",
+  "version": "1.0.0",
+  "description": "Bundled plugins for Claude Code including Agent SDK development tools, PR review toolkit, and commit workflows",
+  "owner": {
+    "name": "KIM YEONHO",
+    "email": "overthinker1127@gmail.com"
+  },
+  "plugins": [
+    // {
+    //   "name": "agent-sdk-dev",
+    //   "description": "Development kit for working with the Claude Agent SDK",
+    //   "source": "./plugins/agent-sdk-dev",
+    //   "category": "development"
+    // },
+  ]
+}
