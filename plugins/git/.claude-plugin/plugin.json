@@ -1,6 +1,6 @@
 {
   "name": "git",
-  "description": "git 커밋 생성, 브랜치 관리, 푸시 등 git 관련 작업을 수행하는 플러그인입니다",
+  "description": "Git 관련 명령어 플러그인",
   "version": "1.0.0",
   "author": {
     "name": "KIM YEONHO",
