@@ -13,12 +13,6 @@
       "description": "Git 관련 명령어 플러그인",
       "source": "./plugins/git",
       "category": "development"
-    },
-    {
-      "name": "nest",
-      "description": "NestJS 관련 명령어 플러그인",
-      "source": "./plugins/nest",
-      "category": "development"
     }
   ]
 }
