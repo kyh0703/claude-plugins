@@ -8,11 +8,17 @@
     "email": "overthinker1127@gmail.com"
   },
   "plugins": [
-    // {
-    //   "name": "agent-sdk-dev",
-    //   "description": "Development kit for working with the Claude Agent SDK",
-    //   "source": "./plugins/agent-sdk-dev",
-    //   "category": "development"
-    // },
+    {
+      "name": "git",
+      "description": "Git 관련 명령어 플러그인",
+      "source": "./plugins/git",
+      "category": "development"
+    },
+    {
+      "name": "nest",
+      "description": "NestJS 관련 명령어 플러그인",
+      "source": "./plugins/nest",
+      "category": "development"
+    }
   ]
 }
