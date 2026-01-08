@@ -1,0 +1,10 @@
+{
+  "name": "human-resource",
+  "description": "PRP 명령어 플러그인",
+  "version": "1.0.0",
+  "author": {
+    "name": "KIM YEONHO",
+    "email": "overthinker1127@gmail.com"
+  },
+  "keywords": ["commands"]
+}

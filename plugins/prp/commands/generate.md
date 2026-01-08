@@ -24,8 +24,8 @@
 
 이 정보를 분석하고 포괄적인 계획을 작성하기 위해 함께 작업하겠습니다.
 
-팁: 티켓 파일로 이 명령을 직접 실행할 수도 있습니다: `/prp:generate PRPs/template.md`
-더 깊은 분석을 원한다면: `/prp:generate think deeply about PRPs/template.md`
+팁: 티켓 파일로 이 명령을 직접 실행할 수도 있습니다: `/prp:generate docs/PRPs/template.md`
+더 깊은 분석을 원한다면: `/prp:generate think deeply about docs/PRPs/template.md`
 ```
 
 그 다음 사용자의 입력을 기다립니다.
@@ -36,7 +36,7 @@
 
 1. **언급된 모든 파일을 즉시 완전히 읽기**:
 
-   - 티켓 파일 (예: `PRPs/ticket.md`)
+   - 티켓 파일 (예: `docs/PRPs/ticket.md`)
    - 연구 문서
    - 관련 구현 계획
    - 언급된 JSON/데이터 파일
@@ -361,12 +361,6 @@
 **포맷 예시:**
 ```markdown
 ### 성공 기준:
-
-#### 자동화된 검증:
-- [ ] 데이터베이스 마이그레이션이 성공적으로 실행됨: `make migrate`
-- [ ] 모든 단위 테스트 통과: `go test ./...`
-- [ ] 린팅 오류 없음: `golangci-lint run`
-- [ ] API 엔드포인트가 200 반환: `curl localhost:8080/api/new-endpoint`
 
 #### 수동 검증:
 - [ ] 새로운 기능이 UI에서 올바르게 나타남

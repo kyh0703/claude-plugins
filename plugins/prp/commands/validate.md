@@ -176,7 +176,7 @@
 권장 워크플로우:
 
 1. `/prp:execute` - Execute the implementation
-2. `/commit` - Create atomic commits for changes
+2. `/git:commit` - Create atomic commits for changes
 3. `/prp:validate` - Verify implementation correctness
 4. `/describe_pr` - Generate PR description
 

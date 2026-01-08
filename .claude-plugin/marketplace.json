@@ -13,6 +13,18 @@
       "description": "Git 관련 명령어 플러그인",
       "source": "./plugins/git",
       "category": "development"
+    },
+    {
+      "name": "gopher",
+      "description": "Gopher 관련 명령어 플러그인",
+      "source": "./plugins/gopher",
+      "category": "development"
+    },
+    {
+      "name": "prp",
+      "description": "prp 관련 명령어 플러그인",
+      "source": "./plugins/prp",
+      "category": "development"
     }
   ]
 }
