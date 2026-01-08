@@ -15,9 +15,21 @@
       "category": "development"
     },
     {
-      "name": "gopher",
-      "description": "Gopher 관련 명령어 플러그인",
-      "source": "./plugins/gopher",
+      "name": "human-resources",
+      "description": "PRP 명령어 플러그인",
+      "source": "./plugins/human-resource",
+      "category": "resource"
+    },
+    {
+      "name": "nest",
+      "description": "NestJS 관련 명령어 플러그인",
+      "source": "./plugins/nest",
+      "category": "development"
+    },
+    {
+      "name": "next",
+      "description": "NextJS 관련 명령어 플러그인",
+      "source": "./plugins/next",
       "category": "development"
     },
     {
